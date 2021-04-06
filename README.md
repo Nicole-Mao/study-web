@@ -5,7 +5,8 @@
 - *ls*: list
 - *mkdir*: make directory
 - *touch*: 创建文件
-Github的使用：
+
+## Github的使用
 1. Github 建立新仓库
 2. 本地创建文件夹及文件
 3. 将本地文件夹初始化为 Git 仓库：git init
