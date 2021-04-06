@@ -1,5 +1,5 @@
 # **Coding 学习记录**
-迄今为止学到的一些*命令*：
+## 迄今为止学到的一些*命令*
 - *cd*: change directory
 - *pwd*: print working directory
 - *ls*: list
